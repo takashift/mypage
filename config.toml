@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://www.hpcs.cs.tsukuba.ac.jp/~tsunashima/"
-languageCode = "ja"
-defaultContentLanguage = "ja"
+languageCode = "en"
+defaultContentLanguage = "en"
 title = "Tsunashima, Ryuuta"
 theme = "hugo-split-theme"
 hasCJKLanguage = "true"
