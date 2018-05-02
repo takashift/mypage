@@ -27,7 +27,7 @@ copyright = "&copy;2018 Tsunashima, Ryuuta"
   [params.content]
     name = "Tsunashima, Ryuuta"
     tagline = "Computer Scientist"
-    bio = "Engineer. Programmer. Student of Master's Program in Computer Science. "
+    bio = "Engineer. Programmer. Student of Master's Program in Computer Science."
 
   # Section - Visual
   [params.visual]

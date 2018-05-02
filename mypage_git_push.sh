@@ -1,4 +1,5 @@
 #!/bin/sh
 
+hugo
 git push
-rsync -acrv ./public/ work:public_html
+rsync -acv ./public/ work:public_html
