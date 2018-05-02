@@ -61,7 +61,7 @@ copyright = "&copy;2018 Tsunashima, Ryuuta"
         url = "https://higechira.hatenablog.com/"
 
       [[params.links.list1.link]]
-        text = "Blog(Multi)"
+        text = "Blog(Miscellaneous)"
         url = "https://02yutori16.hatenablog.com/"
 
       [[params.links.list1.link]]
