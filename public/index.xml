@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tsunashima, Ryuuta</title>
+    <link>https://www.hpcs.cs.tsukuba.ac.jp/~tsunashima/</link>
+    <description>Recent content on Tsunashima, Ryuuta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy;2018 Tsunashima, Ryuuta</copyright>
+    
+	<atom:link href="https://www.hpcs.cs.tsukuba.ac.jp/~tsunashima/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
