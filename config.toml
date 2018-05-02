@@ -1,6 +1,7 @@
 # Site settings
 baseURL = "https://www.hpcs.cs.tsukuba.ac.jp/~tsunashima/"
 languageCode = "ja"
+defaultContentLanguage = "ja"
 title = "Tsunashima, Ryuuta"
 theme = "hugo-split-theme"
 hasCJKLanguage = "true"
@@ -54,7 +55,7 @@ copyright = "&copy;2018 Tsunashima, Ryuuta"
 
       [[params.links.list1.link]]
         text = "About me"
-        url = "about"
+        url = "https://takashift.github.io/"
 
       [[params.links.list1.link]]
         text = "Blog(Technical)"
