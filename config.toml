@@ -76,11 +76,11 @@ copyright = "&copy;2018 Tsunashima, Ryuuta"
 
       [[params.links.list2.link]]
         text = "Twitter(Technical)"
-        url = "https://twitter.com/higechira"
+        url = "https://twitter.com/takashift"
 
-      [[params.links.list2.link]]
-        text = "Twitter(Infomation)"
-        url = "https://twitter.com/higechirakashit"
+#      [[params.links.list2.link]]
+#        text = "Twitter(Infomation)"
+#        url = "https://twitter.com/higechirakashit"
 
       [[params.links.list2.link]]
         text = "Facebook"
@@ -97,7 +97,7 @@ copyright = "&copy;2018 Tsunashima, Ryuuta"
 
       [[params.links.list3.link]]
         text = "GitHub"
-        url = "https://github.com/takashift"
+        url = "https://github.com/takashift_"
 
       [[params.links.list3.link]]
         text = "Qiita"
